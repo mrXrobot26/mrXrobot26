@@ -98,7 +98,7 @@ Here are some of my YouTube playlists where I share tutorials, tech insights, an
 
 ## 👀 Visitor Count
 
-[![](https://visitcount.itsvg.in/api?id=mrXrobot26&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{mrxrobot26}/count.svg)
 
 ---
 
